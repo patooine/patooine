@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan (@patooine)!
 - 👀 I’m interested in data analytics and statistical analysis using R and python
-- 🌱 I’m currently learning python, C++, and datawharehouse architecture
+- 🌱 I’m currently learning javascript and datawharehouse architecture
 - 💞️ I’m looking to collaborate on anything involving data wrangling, open-source projects are a plus!
-- 📫 You can reach me via my email: jpatoine@pm.me
+- 📫 You can reach me via my email: jpatoine@proton.me
